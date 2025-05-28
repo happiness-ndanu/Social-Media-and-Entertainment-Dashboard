@@ -14,7 +14,6 @@ Technologies used include:
 - dplyr / tidyr
 - shinydashboard / shinyWidgets
 
-Author
-Happiness Ndanu Mutisya
+Author: Happiness Ndanu Mutisya
 - Data Analyst | R Developer | Mental Health Advocate  
 - 📧 happiness.ndanu.m@gmail.com  
