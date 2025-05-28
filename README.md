@@ -29,6 +29,6 @@ setwd("TB_Kenya")
 # Run the app
 shiny::runApp()
 ```
-Author: Happiness Ndanu Mutisya
-- Data Analyst | R Developer | Mental Health Advocate  
+Author: Happiness Ndanu M
+- Data Analyst | R Developer | Health Data Enthusiast
 - 📧 happiness.ndanu.m@gmail.com  
