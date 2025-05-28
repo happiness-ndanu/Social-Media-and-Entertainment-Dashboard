@@ -1,6 +1,8 @@
 # Social Media and Entertainment Dashboard
 An interactive dashboard built in R and Shiny to visualize social media performance metrics. The app allows users to explore data trends, platform comparisons, and engagement insights in a user-friendly interface.
 
+![](dashboard.png)
+
 🔗 [App Live Demo](https://happinessndanu1.shinyapps.io/Social-Media-Dashboard/)
 
 Key Features for the dashboard include:
