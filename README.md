@@ -17,7 +17,18 @@ Technologies used include:
 - ggplot2 / plotly
 - dplyr / tidyr
 - shinydashboard / shinyWidgets
+## 📁 How to Run Locally
 
+```r
+# Clone this repo
+git clone https://github.com/happiness-ndanu/Social-Media-and-Entertainment-Dashboard.git
+
+# Open in RStudio
+setwd("TB_Kenya")
+
+# Run the app
+shiny::runApp()
+```
 Author: Happiness Ndanu Mutisya
 - Data Analyst | R Developer | Mental Health Advocate  
 - 📧 happiness.ndanu.m@gmail.com  
